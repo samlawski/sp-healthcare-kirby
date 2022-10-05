@@ -66,7 +66,7 @@ return function($kirby, $pages, $page) {
           'from'     => 'webmaster@sp-healthcare.de',
           'replyTo'  => $data['email'],
           'to'       => $SECRET_RECIPIENT_EMAIL,
-          'subject'  => 'Webseite Kontaktformular: ' . esc($data['name']),
+          'subject'  => 'SP Webseite Kontaktformular: ' . esc($data['name']),
           'data'     => [
             'text'   => esc($data['text']),
             'sender' => esc($data['name']),
