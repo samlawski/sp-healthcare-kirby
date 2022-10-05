@@ -1,0 +1,40 @@
+Title: Project Schedule
+
+----
+
+Slug: how-it-works
+
+----
+
+Description: Which steps are involved in the process of working together?
+
+----
+
+Header-image:
+
+- bild8.jpg
+
+----
+
+Back-link: Back to homepage
+
+----
+
+Other-offer-paths:
+
+- 
+  path: who-its-for
+- 
+  path: solutions
+- 
+  path: what-we-stand-for
+
+----
+
+Subtitle: Project process
+
+----
+
+Graphic:
+
+- project-schedule-4.jpg

@@ -1,0 +1,43 @@
+Title: Error
+
+----
+
+Slug: 404
+
+----
+
+Description: Error
+
+----
+
+Header-image:
+
+- business-1.jpg
+
+----
+
+Back-link: Back to homepage
+
+----
+
+Body:
+
+[
+    {
+        "content": {
+            "level": "h2",
+            "text": "Page not found"
+        },
+        "id": "e166bc36-93da-4f17-acf3-d652426396e4",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "text": "<p>The page you're looking doesn't seem to exist. </p>"
+        },
+        "id": "a48aea2c-e801-4c9f-a3df-7480b36975f7",
+        "isHidden": false,
+        "type": "text"
+    }
+]

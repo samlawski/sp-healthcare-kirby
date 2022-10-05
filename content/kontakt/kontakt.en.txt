@@ -1,0 +1,41 @@
+Title: Get in contact with us!
+
+----
+
+Phone: (+49) 351 840 359 96
+
+----
+
+Email-label: or email:
+
+----
+
+Form-email: email address
+
+----
+
+Form-name: full name
+
+----
+
+Form-message: message
+
+----
+
+Form-button: Send
+
+----
+
+Success-Title: Message sent.
+
+----
+
+Success-Body: Thank you for your message. We'll be in touch shortly.
+
+----
+
+Fail-Title: Error sending the message
+
+----
+
+Fail-Body: Please send us an email instead: ct@sp-healthcare.de

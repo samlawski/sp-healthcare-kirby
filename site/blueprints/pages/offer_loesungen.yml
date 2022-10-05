@@ -1,0 +1,58 @@
+title: Angebot - Lösungen
+
+columns:
+  - width: 2/3
+    fields:
+      text:
+        type: blocks
+        label: Seiteninhalt
+        pretty: true
+        fieldsets:
+          - text
+          - heading
+          - list
+          - image
+      schlagworte:
+        label: Schlagworte
+        type: structure
+        min: 1
+        max: 90
+        fields:
+          schlagwort:
+            label: Schlagwort
+            type: text
+      schlagwort_image:
+        label: Bild neben Schlagworten
+        type: files
+        max: 1
+        multiple: false
+        required: true
+  - width: 1/3
+    fields:
+      description:
+        label: SEO Beschreibung
+        type: text
+        required: false
+      header_image:
+        label: Header Hintergrundbild
+        type: files
+        max: 1
+        multiple: false
+        required: true
+      back_link:
+        label: Link Zurück
+        type: text
+        required: true
+      slug:
+        label: Die ID dieser Seite (am besten nicht bearbeiten)
+        type: text
+        required: true
+      other_offer_paths:
+        label: Andere Angebot-IDs
+        type: structure
+        min: 3
+        max: 3
+        fields:
+          path:
+            label: Link-ID
+            type: text

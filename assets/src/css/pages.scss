@@ -1,0 +1,155 @@
+.page-content {
+  margin-top: -100px;
+  box-shadow: $standard-shadow;
+
+  header {
+    background-color: $background-transparent;
+
+    border-bottom: 3px solid $color-primary;
+  }
+  section {
+    background-color: white;
+  }
+  footer {
+    border-top: 1px solid #ddd;
+  }
+  .main-content {
+    h1 {
+      font-size: 30px;
+      font-family: inherit;
+      font-weight: 500;
+      color: black;
+    }
+
+    img {
+      max-width: 100%;
+      margin: auto;
+      padding: 10px 20px;
+    }
+  }
+
+  .andere-angebote {
+    overflow: auto;
+
+    .angebot {
+      width: 33.33333333%;
+      float: left;
+      background-size: cover;
+      background-position: 50%;
+      height: 100px;
+      color: white;
+      font-weight: 500;
+      font-size: 1.2em;
+    }
+  }
+
+  // PAGE: FÜR WEN 
+
+  .fuerwen__categories {
+    img { padding: 0; }
+  }
+
+  // PAGE: Lösungen
+  // .schlagworte {
+  //   img {
+  //     width: 290px;
+  //     margin: 0;
+  //     float: right;
+  //   }
+  // }
+  .schlagwort {
+    position: relative;
+    margin: 10px 20px; 
+
+    padding: 10px 20px;
+
+    background-color: $color-primary-light;
+    border-radius: .4em;
+
+    // float: left;
+    float: right;
+  }
+
+  .schlagwort:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: 13px solid transparent;
+    border-left-color: $color-primary-light;
+    border-right: 0;
+    border-top: 0;
+    margin-top: -6.5px;
+    margin-right: -13px;
+  }
+
+  // PAGE: Wofür wir stehen / Philosophie
+  .vorteile {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    margin: 40px 0;
+  }
+  .vorteil {
+    position: relative;
+    margin: 10px 20px; 
+
+    padding: 20px 40px;
+
+    background-color: $color-primary-light;
+    border-radius: .4em;
+  }
+
+  .support_types {
+    margin: 40px 0; 
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .support_type__box {
+    flex: 0 0 40%;
+    margin: 20px;
+
+    @media(max-width: 768px) {
+      flex: 1 0 100%;
+      margin: 10px 0;
+    }
+
+    background-color: $grey-color;
+    padding: 30px 20px;
+
+    h4 {
+      margin-bottom: 20px;
+    }
+  }
+
+  // PAGE: Projektablauf
+  .projekt__schritt {
+    background-color: $color-primary-light;
+    padding: 20px 30px;
+    margin-bottom: 30px;
+    border-radius: .4em;
+  }
+
+  .projektzusaetze {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .projekt__zusatz {
+    margin: 10px;
+    font-weight: 500;
+    // font-variant: small-caps;
+    opacity: .5;
+    margin: 10px 20px;
+    transition: opacity .4s;
+
+  }
+}

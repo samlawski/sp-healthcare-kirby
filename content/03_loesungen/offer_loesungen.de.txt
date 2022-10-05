@@ -1,0 +1,110 @@
+Title: Unser Service
+
+----
+
+Slug: loesungen
+
+----
+
+Text:
+
+[
+    {
+        "content": {
+            "level": "h2",
+            "text": "Sie haben Herausforderungen?"
+        },
+        "id": "d7ca15b5-e17b-4cd1-bab2-2e5144667be0",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "text": "<ul><li>Keinen oder zu kleinen Außendienst</li><li>Zu viele Produkte in der Besprechung</li><li>Einen temporären Personalengpass</li><li>Interne oder externe Strukturveränderungen</li></ul>"
+        },
+        "id": "558feeb1-1398-43d2-bb37-77334f5ba2b2",
+        "isHidden": false,
+        "type": "list"
+    },
+    {
+        "content": {
+            "text": "<p>... oder möchten Sie ein neues Projekt umsetzen?</p><p>Wir unterstützen Sie dabei!</p>"
+        },
+        "id": "ab7ffd06-3b63-4676-bee8-720da56e3638",
+        "isHidden": false,
+        "type": "text"
+    },
+    {
+        "content": {
+            "text": "<p> </p>"
+        },
+        "id": "ed613a5c-e94e-4b7d-8328-23aa6f461a19",
+        "isHidden": false,
+        "type": "text"
+    },
+    {
+        "content": {
+            "level": "h2",
+            "text": "Wir geben Ihrer Botschaft ein Gesicht!"
+        },
+        "id": "4eb419ab-3cd0-4c0d-845c-d9f876f194ed",
+        "isHidden": false,
+        "type": "heading"
+    }
+]
+
+----
+
+Schlagworte:
+
+- 
+  schlagwort: Produktbesprechung
+- 
+  schlagwort: Musterabgabe
+- 
+  schlagwort: Abgabe von Werbematerial
+- 
+  schlagwort: Saisonschwerpunkt
+- 
+  schlagwort: Neueinführung
+- 
+  schlagwort: Aktionen
+- 
+  schlagwort: Neuer Fokus
+- 
+  schlagwort: USP
+- 
+  schlagwort: Indikationsveränderung
+- 
+  schlagwort: Neue Studien-Ergebnisse
+
+----
+
+Schlagwort-image:
+
+- megaphone.jpg
+
+----
+
+Description: Wir haben die passenden Lösungen für Ihre Herausforderungen!
+
+----
+
+Header-image:
+
+- bild6cut.jpg
+
+----
+
+Back-link: Zurück zur Startseite
+
+----
+
+Other-offer-paths:
+
+- 
+  path: fuer-wen
+- 
+  path: projektablauf
+- 
+  path: wofuer-wir-stehen

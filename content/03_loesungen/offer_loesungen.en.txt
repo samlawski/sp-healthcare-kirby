@@ -1,0 +1,100 @@
+Title: Our Service
+
+----
+
+Slug: solutions
+
+----
+
+Text:
+
+[
+    {
+        "content": {
+            "level": "h2",
+            "text": "You are facing challenges?"
+        },
+        "id": "d7ca15b5-e17b-4cd1-bab2-2e5144667be0",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "text": "<ul><li>Too small or not existing sales force</li><li>Too many products in the promotion</li><li>A temporary lack of employees</li><li>Internal or external structural changes</li></ul>"
+        },
+        "id": "558feeb1-1398-43d2-bb37-77334f5ba2b2",
+        "isHidden": false,
+        "type": "list"
+    },
+    {
+        "content": {
+            "text": "<p>... or do you want to launch a new product?</p><p>We can assist you!</p>"
+        },
+        "id": "ab7ffd06-3b63-4676-bee8-720da56e3638",
+        "isHidden": false,
+        "type": "text"
+    },
+    {
+        "content": {
+            "text": "<p> </p>"
+        },
+        "id": "ed613a5c-e94e-4b7d-8328-23aa6f461a19",
+        "isHidden": false,
+        "type": "text"
+    },
+    {
+        "content": {
+            "level": "h2",
+            "text": "We pass on your message!"
+        },
+        "id": "4eb419ab-3cd0-4c0d-845c-d9f876f194ed",
+        "isHidden": false,
+        "type": "heading"
+    }
+]
+
+----
+
+Schlagworte:
+
+- schlagwort: Product promotion
+- schlagwort: Samples
+- schlagwort: Submission of promotional material
+- schlagwort: Seasonal focus
+- schlagwort: New launch
+- schlagwort: Action
+- schlagwort: New focus
+- schlagwort: USP
+- schlagwort: Indication variation
+- schlagwort: New study results
+
+----
+
+Schlagwort-image:
+
+- megaphone.jpg
+
+----
+
+Description: We offer the perfect solutions for your challenges.
+
+----
+
+Header-image:
+
+- bild6cut.jpg
+
+----
+
+Back-link: Back to homepage
+
+----
+
+Other-offer-paths:
+
+- 
+  path: who-its-for
+- 
+  path: how-it-works
+- 
+  path: what-we-stand-for

@@ -1,0 +1,103 @@
+Title: Sales und Promotion für Healthcare
+
+----
+
+About-title: About SP Healthcare Services
+
+----
+
+People-image:
+
+- istock-75940723.jpg
+
+----
+
+About-text: <p>Our team, 3 employees in the office and about 100 employees in the nationwide field service (scientists, pharmaceutical representatives, PTAs), is working together successfully for several years.</p><p>While the office staff plans the projects of the clients, the field staff visits the selected doctors, clinics and pharmacies throughout Germany or in individual federal states. Whether sample deliveries, studies or market research: Everything will be carried out and reported according to the agreement.</p><p>Within our projects, we offer the service of Medical Advice and Pharmacovigilance training from our pharmacist with longterm experience in the pharmaceutical industry.</p><p>The field service works exclusively, that means they only discuss the product(s) of the respective client with the doctor or clinic.</p><p>The "all-round service" extends from the <strong>consultation</strong>, over the <strong>project coordination</strong> and the <strong>organization of product training</strong> to the <strong>final report</strong> - also with a detailed project analysis if requested.</p>
+
+----
+
+References-title: Referenzen
+
+----
+
+Referenzen:
+
+- 
+  name: 'Riemser - Oncology '
+- 
+  name: 'Klinge - Vertigo'
+- 
+  name: 'Dr. Kade - Pain Treatment'
+- 
+  name: 'Bioprojet - Allergology'
+- 
+  name: 'Bioprojet  -  Pediatric Gastroenterology '
+- 
+  name: 'Bioprojet - Pneumological Sleep Medicine'
+
+----
+
+Description: Personal support for healthcare business across Germany.
+
+----
+
+Header-image:
+
+- bild1cut.jpg
+
+----
+
+Navigation-links:
+
+- 
+  link: '/#angebote'
+  label: Serviceangebote
+- 
+  link: '/#ueber'
+  label: 'Über S&P'
+- 
+  link: '/#referenzen'
+  label: Referenzen
+- 
+  link: '#kontakt'
+  label: Kontakt
+
+----
+
+Offers-title: Offers
+
+----
+
+Offer-audiences: Target Groups
+
+----
+
+Offer-audiences-text: Professional and personal support for pharmaceutical companies. We present your product to medical practices, clinics and pharmacies.
+
+----
+
+Offer-solutions: Our Service
+
+----
+
+Offer-solutions-text: We offer the perfect solutions for your challenges.
+
+----
+
+Offer-aboutus: We support...
+
+----
+
+Offer-aboutus-text: Our philosophy will be your advantage.
+
+----
+
+Offer-process: Project Schedule
+
+----
+
+Offer-process-text: Which steps are involved in the process of working together?
+
+----
+
+Find-out-more: Find out more...

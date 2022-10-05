@@ -1,0 +1,14 @@
+{
+  "name": "sp-healthcare",
+  "version": "0.0.1",
+  "scripts": {
+    "assets:dev": "vite --config assets/src/vite.config.js",
+    "assets:build": "vite build --config assets/src/vite.config.js",
+    "assets:serve": "vite preview --config assets/src/vite.config.js",
+    "serve": "php -S localhost:8000 kirby/router.php"
+  },
+  "devDependencies": {
+    "sass": "^1.37.5",
+    "vite": "^2.4.4"
+  }
+}

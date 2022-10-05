@@ -1,0 +1,70 @@
+title: Angebot - Für Wen
+
+columns:
+  - width: 2/3
+    fields:
+      category1_name:
+        label: Kategorie 1 Titel
+        type: text
+        required: false
+      category1_image:
+        label: Kategorie 1 Bild
+        type: files
+        max: 1
+        multiple: false
+      category2_name:
+        label: Kategorie 2 Titel
+        type: text
+        required: false
+      category2_image:
+        label: Kategorie 2 Bild
+        type: files
+        max: 1
+        multiple: false
+      category3_name:
+        label: Kategorie 3 Titel
+        type: text
+        required: false
+      category3_image:
+        label: Kategorie 3 Bild
+        type: files
+        max: 1
+        multiple: false
+      text:
+        type: blocks
+        label: Seiteninhalt
+        pretty: true
+        fieldsets:
+          - text
+          - heading
+          - list
+          - image
+  - width: 1/3
+    fields:
+      description:
+        label: SEO Beschreibung
+        type: text
+        required: false
+      header_image:
+        label: Header Hintergrundbild
+        type: files
+        max: 1
+        multiple: false
+        required: true
+      back_link:
+        label: Link Zurück
+        type: text
+        required: true
+      slug:
+        label: Die ID dieser Seite (am besten nicht bearbeiten)
+        type: text
+        required: true
+      other_offer_paths:
+        label: Andere Angebot-IDs
+        type: structure
+        min: 3
+        max: 3
+        fields:
+          path:
+            label: Link-ID
+            type: text

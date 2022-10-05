@@ -1,0 +1,103 @@
+Title: Sales und Promotion für Healthcare
+
+----
+
+About-title: &Uuml;ber S&amp;P Healthcare Services
+
+----
+
+People-image:
+
+- istock-75940723.jpg
+
+----
+
+About-text: <p>Unser Team von 3 Mitarbeitern im Innendienst und ca. 100 Mitarbeitern im bundesweiten Außendienst (Naturwissenschaftler, Pharmareferenten, PTAs) arbeitet seit mehreren Jahren erfolgreich zusammen.</p><p>Während der Innendienst die Projekte der Auftraggeber plant, besucht der Außendienst deutschlandweit oder auch in einzelnen Bundesländern die selektierten Ärzte, Kliniken und Apotheken. Ob Musterabgaben, Studien oder Marktforschungen: Alles wird entsprechend der Vereinbarung durchgeführt und berichtet.</p><p>Wir bieten im Rahmen der Projekte medizinisch-wissenschaftliche Beratung und Pharmakovigilanz-Schulung durch unseren Pharmazeuten mit langjähriger Erfahrung in der pharmazeutischen Industrie.</p><p>Der Außendienst arbeitet in Ausschließlichkeit, d.h. bespricht beim Arzt bzw. in der Klinik oder Apotheke lediglich das Produkt/die Produkte des jeweiligen Auftraggebers.</p><p>Der „Rundum-Service“ erstreckt sich von der <strong>Beratung</strong> über die <strong>Projektabstimmung </strong>und <strong>Organisation der Produktschulung</strong> bis zum <strong>Abschlussbericht</strong> – wenn gewünscht auch mit detaillierter Projektanalyse.</p>
+
+----
+
+References-title: Referenzen
+
+----
+
+Referenzen:
+
+- 
+  name: 'Riemser - Onkologie'
+- 
+  name: 'Klinge - Vertigo'
+- 
+  name: 'Dr. Kade - Schmerz'
+- 
+  name: 'Bioprojet - Allergologie'
+- 
+  name: 'Bioprojet  -  Pädiatrische Gastroenterologie'
+- 
+  name: 'Bioprojet - Pneumologische Schlafmedizin'
+
+----
+
+Description: Deutschlandweit personelle Unterstützung im Healthcare-Bereich.
+
+----
+
+Header-image:
+
+- bild1cut.jpg
+
+----
+
+Navigation-links:
+
+- 
+  link: '/#angebote'
+  label: Serviceangebote
+- 
+  link: '/#ueber'
+  label: 'Über S&P'
+- 
+  link: '/#referenzen'
+  label: Referenzen
+- 
+  link: '#kontakt'
+  label: Kontakt
+
+----
+
+Offers-title: Angebote
+
+----
+
+Offer-audiences: Zielgruppen
+
+----
+
+Offer-audiences-text: Professionelle und personelle Unterst&uuml;tzung f&uuml;r Pharmafirmen. Wir bringen Ihr Produkt in die Arztpraxen, Kliniken und Apotheken.
+
+----
+
+Offer-solutions: Unser Service
+
+----
+
+Offer-solutions-text: Wir haben die passenden L&ouml;sungen f&uuml;r Ihre Herausforderungen!
+
+----
+
+Offer-aboutus: Wir unterst&uuml;tzen...
+
+----
+
+Offer-aboutus-text: Unsere Philosophie ist Ihr Vorteil.
+
+----
+
+Offer-process: Projektablauf
+
+----
+
+Offer-process-text: Wie l&auml;uft eine gemeinsame Zusammenarbeit konkret ab?
+
+----
+
+Find-out-more: Mehr erfahren...

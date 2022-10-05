@@ -1,0 +1,97 @@
+title: Home
+
+columns:
+  - width: 2/3
+    fields:
+      about_title:
+        label: Über Uns Titel
+        type: text
+        required: false
+      people_image:
+        label: Über Uns Bild
+        type: files
+        max: 1
+        multiple: false
+        required: true
+      about_text:
+        label: Über Uns Text
+        type: writer
+        size: large
+        required: false
+      references_title:
+        label: Titel der Referenzen
+        type: text
+        required: false
+      referenzen:
+        label: Referenzen
+        type: structure
+        min: 1
+        max: 10
+        fields:
+          name:
+            label: Name
+            type: text
+  - width: 1/3
+    fields:
+      description:
+        label: SEO Beschreibung
+        type: text
+        required: false
+      header_image:
+        label: Header Hintergrundbild
+        type: files
+        max: 1
+        multiple: false
+        required: true
+      navigation_links:
+        label: Navigation-Links
+        type: structure
+        min: 1
+        max: 4
+        fields:
+          link:
+            label: link
+            type: text
+          label:
+            label: Label
+            type: text
+      offers_title:
+        label: Angebote Titel
+        type: text
+        required: true
+      offer_audiences:
+        label: Angebot Zielgruppen Titel
+        type: text
+        required: true
+      offer_audiences_text:
+        label: Angebot Zielgruppen Text
+        type: text
+        required: true
+      offer_solutions:
+        label: Angebot Services Titel
+        type: text
+        required: true
+      offer_solutions_text:
+        label: Angebot Services Text
+        type: text
+        required: true
+      offer_aboutus:
+        label: Angebot Wir unterstützen Titel
+        type: text
+        required: true
+      offer_aboutus_text:
+        label: Angebot Wir unterstützen Text
+        type: text
+        required: true
+      offer_process:
+        label: Angebot Projektablauf Titel
+        type: text
+        required: true
+      offer_process_text:
+        label: Angebot Projektablauf Text
+        type: text
+        required: true
+      find_out_more:
+        label: Angebot-Link
+        type: text
+        required: true

@@ -1,0 +1,40 @@
+title: Fehler
+
+----
+slug: 404
+----
+
+description: Fehler
+----
+
+header-image: 
+
+- business-1.jpg
+
+----
+
+Back-link: Zurück zur Startseite
+
+----
+
+Body:
+
+[
+    {
+        "content": {
+            "level": "h2",
+            "text": "Seite nicht gefunden"
+        },
+        "id": "e166bc36-93da-4f17-acf3-d652426396e4",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "text": "<p>Die Seite, auf die Sie zugreifen wollen scheint leider nicht zu existieren.</p>"
+        },
+        "id": "a48aea2c-e801-4c9f-a3df-7480b36975f7",
+        "isHidden": false,
+        "type": "text"
+    }
+]

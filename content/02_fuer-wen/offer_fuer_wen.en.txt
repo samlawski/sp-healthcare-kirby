@@ -1,0 +1,76 @@
+Title: Our Target Groups
+
+----
+
+Slug: who-its-for
+
+----
+
+Description: Professional and personal support for pharmaceutical companies. We present your product to medical practices, clinics and pharmacies.
+
+----
+
+Header-image:
+
+- bild2.jpg
+
+----
+
+Back-link: Back to homepage
+
+----
+
+Category1-image:
+
+- bild3.jpg
+
+----
+
+Category1-name: Medical Practices
+
+----
+
+Category2-image:
+
+- bild4.jpg
+
+----
+
+Category2-name: &nbsp;&nbsp; Clinics
+
+----
+
+Category3-image:
+
+- bild5.jpg
+
+----
+
+Category3-name: &nbsp; Pharmacies
+
+----
+
+Text:
+
+[
+    {
+        "content": {
+            "level": "h4",
+            "text": "We present your product to your selected doctors and<br>the medical staff of practices or clinics<br>as well as the staff of pharmacies."
+        },
+        "id": "a62fac89-c03e-4ff8-ba72-c396ae0d3fec",
+        "isHidden": false,
+        "type": "heading"
+    }
+]
+
+----
+
+Other-offer-paths:
+
+- 
+  path: solutions
+- 
+  path: what-we-stand-for
+- 
+  path: how-it-works

@@ -1,0 +1,64 @@
+title: Unsere Zielgruppen
+
+----
+
+Description: Professionelle und personelle Unterstützung für Pharmafirmen. Wir bringen Ihr Produkt in die Arztpraxen, Kliniken und Apotheken. 
+
+----
+
+slug: fuer-wen
+
+----
+
+Header-image: 
+
+- bild2.jpg
+
+----
+
+Back-link: Zurück zur Startseite
+
+----
+
+Category1-Image:
+
+- bild3.jpg
+
+----
+
+Category1-Name: &nbsp; &nbsp; &nbsp; Arztpraxen
+
+----
+
+Category2-Image:
+
+- bild4.jpg
+
+----
+
+Category2-Name: &nbsp; &nbsp; &nbsp; &nbsp; Kliniken
+
+----
+
+Category3-Image:
+
+- bild5.jpg
+
+----
+
+Category3-Name: &nbsp; &nbsp; &nbsp; Apotheken
+
+----
+
+Text: 
+
+<h4>Wir stellen Ihr Produkt bei den von Ihnen ausgew&auml;hlten &Auml;rzten und</h4>
+<h4>dem medizinischen Fachpersonal in Arztpraxen oder Kliniken</h4>
+<h4>sowie dem pharmazeutischen Fachpersonal in Apotheken vor.</h4>
+
+----
+
+Other-offer-paths: 
+- path: loesungen
+- path: projektablauf
+- path: wofuer-wir-stehen

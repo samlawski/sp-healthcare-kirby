@@ -1,0 +1,71 @@
+title: Angebot - Wofür wir stehen
+
+columns:
+  - width: 2/3
+    fields:
+      titel_1:
+        label: Titel Oben
+        type: text
+        required: false
+      main_points:
+        label: Kategorien
+        type: structure
+        min: 1
+        max: 90
+        fields:
+          title:
+            label: Titel
+            type: text
+          body:
+            label: Beschreibungspunkte
+            type: structure
+            fields:
+              text:
+                label: Text
+                type: text
+      titel_2:
+        label: Titel Unten
+        type: text
+        required: false
+      subtitle_2:
+        label: Untertitel Unten
+        type: text
+        required: false
+      vorteile:
+        label: Vorteile / Schlagworte
+        type: structure
+        min: 1
+        max: 90
+        fields:
+          schlagwort:
+            label: Schlagwort
+            type: text
+  - width: 1/3
+    fields:
+      description:
+        label: SEO Beschreibung
+        type: text
+        required: false
+      header_image:
+        label: Header Hintergrundbild
+        type: files
+        max: 1
+        multiple: false
+        required: true
+      back_link:
+        label: Link Zurück
+        type: text
+        required: true
+      slug:
+        label: Die ID dieser Seite (am besten nicht bearbeiten)
+        type: text
+        required: true
+      other_offer_paths:
+        label: Andere Angebot-IDs
+        type: structure
+        min: 3
+        max: 3
+        fields:
+          path:
+            label: Link-ID
+            type: text

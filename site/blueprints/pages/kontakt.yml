@@ -1,0 +1,44 @@
+title: Kontakt
+
+columns:
+  - width: 1/3
+    fields:
+      title:
+        type: text
+        label: Überschrift
+      phone:
+        type: text
+        label: Telefonnummer
+      email_label:
+        type: text
+        label: Email Label
+      form_email:
+        type: text
+        label: Formular Email
+      form_name:
+        type: text
+        label: Formular Name
+      form_message:
+        type: text
+        label: Formular Nachricht
+      form_button:
+        type: text
+        label: Formular Butt
+  - width: 2/3
+    fields:
+      success_title:
+        label: Dankestitel
+        type: text
+        required: false
+      success_body:
+        label: Dankestext
+        type: text
+        required: false
+      fail_title:
+        label: Fehlertitel
+        type: text
+        required: false
+      fail_body:
+        label: Fehlertext
+        type: text
+        required: false

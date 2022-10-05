@@ -1,0 +1,41 @@
+title: Nehmen Sie jetzt Kontakt auf!
+
+----
+
+phone: 0351 840 359 96
+
+----
+
+Email-Label: oder per email:
+
+----
+
+Form-Email: Email-Adresse
+
+----
+
+Form-Name: Vor- und Nachname
+
+----
+
+Form-Message: Nachricht
+
+----
+
+Form-Button: Abschicken
+
+----
+
+Success-Title: Nachricht abgeschickt.
+
+----
+
+Success-Body: Vielen Dank für Ihre Nachricht. Wir werden uns so bald wie möglich mit Ihnen in Verbindung setzen.
+
+----
+
+Fail-Title: Fehler
+
+----
+
+Fail-Body: Bitte senden Sie uns stattdessen eine Email an: ct@sp-healthcare.de
