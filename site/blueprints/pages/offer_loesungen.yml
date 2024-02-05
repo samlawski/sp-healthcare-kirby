@@ -3,15 +3,32 @@ title: Angebot - Lösungen
 columns:
   - width: 2/3
     fields:
-      text:
+      text_left:
         type: blocks
-        label: Seiteninhalt
+        label: Seiteninhalt Links
         pretty: true
         fieldsets:
           - text
           - heading
           - list
           - image
+      text_right:
+        type: blocks
+        label: Seiteninhalt Rechts
+        pretty: true
+        fieldsets:
+          - text
+          - heading
+          - list
+          - image
+      text_center:
+        label: Zentrierter Text
+        type: text
+        required: false
+      schlagworte_header:
+        label: Titel über Schlagworten
+        type: text
+        required: false
       schlagworte:
         label: Schlagworte
         type: structure

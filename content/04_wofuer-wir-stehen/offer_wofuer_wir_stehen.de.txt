@@ -6,6 +6,65 @@ Slug: wofuer-wir-stehen
 
 ----
 
+Titel-1: Wir unterstützen Sie im Vertrieb... Was benötigen Sie?
+
+----
+
+Main-points:
+
+- 
+  title: Außendienstunterstützung
+  body:
+    - 
+      text: >
+        ... zusätzliche Besuche in Abstimmung
+        mit dem eigenen Außendienst
+- 
+  title: Temporäres externes Vertriebsteam
+  body:
+    - 
+      text: ... klassische Besprechung der Produkte
+- 
+  title: MIT oder OHNE
+  body:
+    - 
+      text: Marktforschung
+    - 
+      text: Mitbewerberumfeldanalyse
+    - 
+      text: >
+        Ihre speziellen Fragen an den
+        Arzt/Apotheker
+    - 
+      text: Strategische Beratung
+
+----
+
+Titel-2: Unsere Philosophie
+
+----
+
+Subtitle-2: Wir sind ...
+
+----
+
+Vorteile:
+
+- 
+  schlagwort: flexibel
+- 
+  schlagwort: exklusiv
+- 
+  schlagwort: transparent
+- 
+  schlagwort: schnell
+- 
+  schlagwort: kompetent in allen Indikationen
+- 
+  schlagwort: Rx oder OTC
+
+----
+
 Description: Unsere Philosophie ist Ihr Vorteil.
 
 ----
@@ -20,45 +79,13 @@ Back-link: Zurück zur Startseite
 
 Other-offer-paths:
 
-- path: fuer-wen
-- path: loesungen
-- path: projektablauf
+- 
+  path: fuer-wen
+- 
+  path: loesungen
+- 
+  path: projektablauf
 
 ----
 
-Titel-1: Wir unterstützen Sie im Vertrieb... Was benötigen Sie?
-
-----
-
-Main-points:
-
-- title: Außendienstunterstützung
-  body: 
-    - text: ... zusätzliche Besuche in Abstimmung mit dem eigenen Außendienst
-- title: Temporäres externes Vertriebsteam
-  body: 
-    - text: ... klassische Besprechung der Produkte
-- title: MIT oder OHNE
-  body: 
-    - text: Marktforschung
-    - text: Mitbewerberumfeldanalyse
-    - text: Ihre speziellen Fragen an den Arzt/Apotheker
-
-----
-
-Titel-2: Unsere Philosophie
-
-----
-
-Subtitle-2: Wir sind ...
-
-----
-
-Vorteile:
-
-- schlagwort: flexibel
-- schlagwort: exklusiv
-- schlagwort: transparent
-- schlagwort: schnell
-- schlagwort: kompetent in allen Indikationen
-- schlagwort: Rx oder OTC
+Uuid: nfxq0PDO16qgTUTj

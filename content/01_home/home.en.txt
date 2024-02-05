@@ -12,28 +12,30 @@ People-image:
 
 ----
 
-About-text: <p>Our team, 3 employees in the office and about 100 employees in the nationwide field service (scientists, pharmaceutical representatives, PTAs), is working together successfully for several years.</p><p>While the office staff plans the projects of the clients, the field staff visits the selected doctors, clinics and pharmacies throughout Germany or in individual federal states. Whether sample deliveries, studies or market research: Everything will be carried out and reported according to the agreement.</p><p>Within our projects, we offer the service of Medical Advice and Pharmacovigilance training from our pharmacist with longterm experience in the pharmaceutical industry.</p><p>The field service works exclusively, that means they only discuss the product(s) of the respective client with the doctor or clinic.</p><p>The "all-round service" extends from the <strong>consultation</strong>, over the <strong>project coordination</strong> and the <strong>organization of product training</strong> to the <strong>final report</strong> - also with a detailed project analysis if requested.</p>
+About-text: <p>Our office team and about 100 employees in the nationwide sales force (scientists, pharmaceutical representatives, pharmaceutical technical assistants), are working together successfully for several years.</p><p>While the office staff plans the projects of the clients, the field staff visits the selected doctors, clinics and pharmacies throughout Germany or in individual federal states. Whether sample deliveries, field studies or market research: Everything will be carried out and reported according to the agreement.</p><p>Within our projects, we offer the service of Medical Advice and Pharmacovigilance training from our pharmacist with longterm experience in the pharmaceutical industry.</p><p>The sales force works exclusively, that means they only discuss the product(s) of the respective client with the doctor or clinic.</p><p>The "all-round service" extends from the <strong>consultation</strong>, over the <strong>project coordination</strong> and the <strong>organization of product training</strong> to the <strong>final report</strong> - also with a detailed project analysis if requested.</p><p>Furthermore, we offer<strong> strategic consulting</strong> in the fields of business development, marketing and sales of Rx- and OTC-pharmceuticals, medical products and cosmetics.</p>
 
 ----
 
-References-title: Referenzen
+References-title: Project References
 
 ----
 
 Referenzen:
 
 - 
-  name: 'Riemser - Oncology '
+  name: 'ALLERGOLOGY: Anaphylactic Shock'
 - 
-  name: 'Klinge - Vertigo'
+  name: 'ENT: Vertigo'
 - 
-  name: 'Dr. Kade - Pain Treatment'
+  name: 'GASTROENTEROLOGY: Acute Diarrhea'
 - 
-  name: 'Bioprojet - Allergology'
+  name: 'NEUROLOGY/PSYCHIATRY: Epilepsy, Major Depression, Multiple Sclerosis'
 - 
-  name: 'Bioprojet  -  Pediatric Gastroenterology '
+  name: 'ONCOLOGY: Chemotherapy-induced Nausea and Vomiting (CINV)'
 - 
-  name: 'Bioprojet - Pneumological Sleep Medicine'
+  name: 'PAIN TREATMENT: Chronic pain and Lumbago'
+- 
+  name: 'PNEUMOLOGY: Excessive Daytime Sleepiness (EDS) in OSA'
 
 ----
 
@@ -50,17 +52,17 @@ Header-image:
 Navigation-links:
 
 - 
-  link: '/#angebote'
-  label: Serviceangebote
+  link: '/en/#angebote'
+  label: Services
 - 
-  link: '/#ueber'
-  label: 'Über S&P'
+  link: '/en/#ueber'
+  label: 'About S&P'
 - 
-  link: '/#referenzen'
-  label: Referenzen
+  link: '/en/#referenzen'
+  label: References
 - 
-  link: '#kontakt'
-  label: Kontakt
+  link: '#contact'
+  label: Contact
 
 ----
 

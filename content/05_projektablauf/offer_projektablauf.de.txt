@@ -1,18 +1,16 @@
-title: Wie läuft ein Projekt ab?
+Title: Wie läuft ein Projekt ab?
 
 ----
 
-Description: Wie läuft eine gemeinsame Zusammenarbeit konkret ab? 
+Slug: projektablauf
 
 ----
 
-slug: projektablauf
+Description: Wie läuft eine gemeinsame Zusammenarbeit konkret ab?
 
 ----
 
-Header-image: 
-
-- bild8.jpg
+Header-image: - bild8.jpg
 
 ----
 
@@ -20,17 +18,20 @@ Back-link: Zurück zur Startseite
 
 ----
 
-Other-offer-paths: 
+Other-offer-paths:
+
 - path: fuer-wen
 - path: loesungen
 - path: wofuer-wir-stehen
 
 ----
 
-subtitle: Projektablauf
+Subtitle: Projektablauf
 
 ----
 
-graphic: 
+Graphic: - projektablauf-4.jpg
 
-- projektablauf-4.jpg
+----
+
+Uuid: LPRFMlWmPd4qEjvB

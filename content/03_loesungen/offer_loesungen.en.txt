@@ -6,12 +6,12 @@ Slug: solutions
 
 ----
 
-Text:
+Text-left:
 
 [
     {
         "content": {
-            "level": "h2",
+            "level": "h3",
             "text": "You are facing challenges?"
         },
         "id": "d7ca15b5-e17b-4cd1-bab2-2e5144667be0",
@@ -28,45 +28,86 @@ Text:
     },
     {
         "content": {
-            "text": "<p>... or do you want to launch a new product?</p><p>We can assist you!</p>"
+            "text": "<p>... or do you want to launch a new product?</p>"
         },
         "id": "ab7ffd06-3b63-4676-bee8-720da56e3638",
         "isHidden": false,
         "type": "text"
-    },
-    {
-        "content": {
-            "text": "<p> </p>"
-        },
-        "id": "ed613a5c-e94e-4b7d-8328-23aa6f461a19",
-        "isHidden": false,
-        "type": "text"
-    },
-    {
-        "content": {
-            "level": "h2",
-            "text": "We pass on your message!"
-        },
-        "id": "4eb419ab-3cd0-4c0d-845c-d9f876f194ed",
-        "isHidden": false,
-        "type": "heading"
     }
 ]
 
 ----
 
+Text-right:
+
+[
+    {
+        "content": {
+            "level": "h3",
+            "text": "You need strategic consulting?"
+        },
+        "id": "7c2fd490-91c5-4221-8733-eed20a1ca28f",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "text": "<p>in the fields of:</p>"
+        },
+        "id": "97f26cd6-ca0d-46c3-8b04-d44b4149364b",
+        "isHidden": false,
+        "type": "text"
+    },
+    {
+        "content": {
+            "text": "<ul><li>Business Development</li><li>Marketing</li><li>Sales</li></ul>"
+        },
+        "id": "687b4db4-b373-42c8-9612-01372ea2aa1f",
+        "isHidden": false,
+        "type": "list"
+    },
+    {
+        "content": {
+            "text": "<p>of Rx- and OTC-pharmaceuticals and medical products?</p>"
+        },
+        "id": "2b98dfc9-4268-4719-9bd8-3a5681bcde5e",
+        "isHidden": false,
+        "type": "text"
+    }
+]
+
+----
+
+Text-center: We can assist you!
+
+----
+
+Schlagworte-header: We pass on your message!
+
+----
+
 Schlagworte:
 
-- schlagwort: Product promotion
-- schlagwort: Samples
-- schlagwort: Submission of promotional material
-- schlagwort: Seasonal focus
-- schlagwort: New launch
-- schlagwort: Action
-- schlagwort: New focus
-- schlagwort: USP
-- schlagwort: Indication variation
-- schlagwort: New study results
+- 
+  schlagwort: Product promotion
+- 
+  schlagwort: Samples
+- 
+  schlagwort: Submission of promotional material
+- 
+  schlagwort: Seasonal focus
+- 
+  schlagwort: New launch
+- 
+  schlagwort: Action
+- 
+  schlagwort: New focus
+- 
+  schlagwort: USP
+- 
+  schlagwort: Indication variation
+- 
+  schlagwort: New study results
 
 ----
 

@@ -6,31 +6,6 @@ Slug: what-we-stand-for
 
 ----
 
-Description: Our philosophy will be your advantage.
-
-----
-
-Header-image:
-
-- bild7cut.jpg
-
-----
-
-Back-link: Back to homepage
-
-----
-
-Other-offer-paths:
-
-- 
-  path: who-its-for
-- 
-  path: solutions
-- 
-  path: how-it-works
-
-----
-
 Titel-1: We support you in the disctribution... What do you need?
 
 ----
@@ -60,6 +35,8 @@ Main-points:
       text: >
         your special questions to the
         doctor/pharmacist
+    - 
+      text: strategic consulting
 
 ----
 
@@ -73,9 +50,40 @@ Subtitle-2: We are ...
 
 Vorteile:
 
-- schlagwort: flexible
-- schlagwort: exclusive
-- schlagwort: transparent
-- schlagwort: fast
-- schlagwort: competent in all indications
-- schlagwort: Rx or OTC
+- 
+  schlagwort: flexible
+- 
+  schlagwort: exclusive
+- 
+  schlagwort: transparent
+- 
+  schlagwort: fast
+- 
+  schlagwort: competent in all indications
+- 
+  schlagwort: Rx or OTC
+
+----
+
+Description: Our philosophy will be your advantage.
+
+----
+
+Header-image:
+
+- bild7cut.jpg
+
+----
+
+Back-link: Back to homepage
+
+----
+
+Other-offer-paths:
+
+- 
+  path: who-its-for
+- 
+  path: solutions
+- 
+  path: how-it-works

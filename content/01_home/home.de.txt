@@ -6,34 +6,34 @@ About-title: &Uuml;ber S&amp;P Healthcare Services
 
 ----
 
-People-image:
-
-- istock-75940723.jpg
+People-image: - istock-75940723.jpg
 
 ----
 
-About-text: <p>Unser Team von 3 Mitarbeitern im Innendienst und ca. 100 Mitarbeitern im bundesweiten Außendienst (Naturwissenschaftler, Pharmareferenten, PTAs) arbeitet seit mehreren Jahren erfolgreich zusammen.</p><p>Während der Innendienst die Projekte der Auftraggeber plant, besucht der Außendienst deutschlandweit oder auch in einzelnen Bundesländern die selektierten Ärzte, Kliniken und Apotheken. Ob Musterabgaben, Studien oder Marktforschungen: Alles wird entsprechend der Vereinbarung durchgeführt und berichtet.</p><p>Wir bieten im Rahmen der Projekte medizinisch-wissenschaftliche Beratung und Pharmakovigilanz-Schulung durch unseren Pharmazeuten mit langjähriger Erfahrung in der pharmazeutischen Industrie.</p><p>Der Außendienst arbeitet in Ausschließlichkeit, d.h. bespricht beim Arzt bzw. in der Klinik oder Apotheke lediglich das Produkt/die Produkte des jeweiligen Auftraggebers.</p><p>Der „Rundum-Service“ erstreckt sich von der <strong>Beratung</strong> über die <strong>Projektabstimmung </strong>und <strong>Organisation der Produktschulung</strong> bis zum <strong>Abschlussbericht</strong> – wenn gewünscht auch mit detaillierter Projektanalyse.</p>
+About-text: <p>Unser <strong>Innendienstteam</strong> und ca. <strong>100 freiberufliche Mitarbeiter</strong> im bundesweiten Außendienst (Naturwissenschaftler, Pharmareferenten, PTAs) arbeiten seit mehreren Jahren erfolgreich zusammen.</p><p>Während der Innendienst die Projekte der Auftraggeber plant, besucht unser Außendienst deutschlandweit oder auch in einzelnen Bundesländern die selektierten Ärzte, Kliniken und Apotheken. Ob Produktbesprechung, Musterabgaben, Studienplatzierung oder Marktforschungen: Alle Aufgaben werden entsprechend der Kundenvorgaben durchgeführt.</p><p>Der Außendienst arbeitet in <strong>Ausschließlichkeit</strong>, d.h. bespricht beim Arzt bzw. in der Klinik oder Apotheke ausschließlich das Produkt/die Produkte des jeweiligen Auftraggebers.</p><p>Wir bieten im Rahmen der Außendienstprojekte auch Produkt-/Indikations- und Pharmakovigilanz-Schulungen an, die durch unseren erfahrenen Pharmazeuten realisiert werden.</p><p>Unser <strong>„Rundum-Service“</strong> erstreckt sich von der <strong>Beratung</strong> über die <strong>Projektkoordination und Organisation, Zielgruppenbesuche</strong> bis hin zum <strong>Abschlussbericht</strong>.</p><p>Darüber hinaus bieten wir <strong>strategische Beratung</strong> in den Bereichen Unternehmensaufbau und Geschäftsentwicklung, Medical Affairs, Marketing und Vertrieb von Rx- und OTC-Arzneimitteln, Medizinprodukten und Kosmetika, Product Launch Management und Interimsmanagement an.</p><p>Des Weiteren übernehmen wir <strong>Freelancetätigkeiten</strong> in den Bereichen Quality &amp; Regulatory Affairs (GDP Compliance Officer, Information Officer, Labeling Consultant).</p>
 
 ----
 
-References-title: Referenzen
+References-title: Projektreferenzen
 
 ----
 
 Referenzen:
 
 - 
-  name: 'Riemser - Onkologie'
+  name: 'ALLERGOLOGIE: Anaphylaktischer Schock'
 - 
-  name: 'Klinge - Vertigo'
+  name: 'GASTROENTEROLOGIE: Akute Diarrhoe'
 - 
-  name: 'Dr. Kade - Schmerz'
+  name: 'HNO: Vertigo'
 - 
-  name: 'Bioprojet - Allergologie'
+  name: 'NEUROLOGIE/PSYCHIATRIE: Epilepsie, Major Depression, Multiple Sklerose'
 - 
-  name: 'Bioprojet  -  Pädiatrische Gastroenterologie'
+  name: 'ONKOLOGIE: Chemotherapie-bedingte Nausea und Emesis (CINV)'
 - 
-  name: 'Bioprojet - Pneumologische Schlafmedizin'
+  name: 'PNEUMOLOGIE: Exzessive Tagesschläfrigkeit (EDS) bei OSA'
+- 
+  name: 'SCHMERZTHERAPIE: Chronische Schmerzen und Lumbago'
 
 ----
 
@@ -41,9 +41,7 @@ Description: Deutschlandweit personelle Unterstützung im Healthcare-Bereich.
 
 ----
 
-Header-image:
-
-- bild1cut.jpg
+Header-image: - bild1cut.jpg
 
 ----
 
@@ -59,7 +57,7 @@ Navigation-links:
   link: '/#referenzen'
   label: Referenzen
 - 
-  link: '#kontakt'
+  link: '#contact'
   label: Kontakt
 
 ----
@@ -101,3 +99,7 @@ Offer-process-text: Wie l&auml;uft eine gemeinsame Zusammenarbeit konkret ab?
 ----
 
 Find-out-more: Mehr erfahren...
+
+----
+
+Uuid: dm9ACtnEAhqrl6Oj

@@ -11,7 +11,7 @@ Body:
 [
     {
         "content": {
-            "text": "<p><strong>S&P Healthcare Services</strong></p>\n\n<p>Inhaberin: Cornelia Toussaint</p>\n\n<p>Dohnaer Straße 73</p>\n\n<p>01219 Dresden</p>\n\n<p>Tel: 0351 840 359 96</p>\n\n<p>Fax: 0351 840 324 30</p>\n\n<p>E-Mail:  <a href=\"mailto: ct@sp-healthcare.de\">ct@sp-healthcare.de</a></p>\n\n<p>Steuernummer: 20/562/00168</p>\n\n<p>Umsatzsteuer-ID: DE253989088</p>\n\n<p>Finanzamt Berlin-Steglitz</p>\n\n<p> </p>"
+            "text": "<p><strong>S&amp;P Healthcare Services</strong></p><p>Inhaberin: Cornelia Toussaint</p><p>Dohnaer Straße 73</p><p>01219 Dresden</p><p>Tel: 0351 840 359 96</p><p>Fax: 0351 840 324 30</p><p>E-Mail:&nbsp; <a href=\"mailto: ct@sp-healthcare.de\" rel=\"noopener noreferrer nofollow\">ct@sp-healthcare.de</a></p><p>Steuernummer: 203/282/16680</p><p>Umsatzsteuer-ID: DE253989088</p><p>Finanzamt Dresden-Süd</p><p>&nbsp;</p>"
         },
         "id": "a11caef8-5150-4f1f-b608-c8b6c17d7643",
         "isHidden": false,
@@ -42,10 +42,12 @@ Description: Impressum
 
 ----
 
-Header-image:
-
-- business-1.jpg
+Header-image: - business-1.jpg
 
 ----
 
 Back-link: Zurück zur Startseite
+
+----
+
+Uuid: 2QHdWK8XWofD2jaO

@@ -6,12 +6,12 @@ Slug: loesungen
 
 ----
 
-Text:
+Text-left:
 
 [
     {
         "content": {
-            "level": "h2",
+            "level": "h3",
             "text": "Sie haben Herausforderungen?"
         },
         "id": "d7ca15b5-e17b-4cd1-bab2-2e5144667be0",
@@ -28,7 +28,7 @@ Text:
     },
     {
         "content": {
-            "text": "<p>... oder möchten Sie ein neues Projekt umsetzen?</p><p>Wir unterstützen Sie dabei!</p>"
+            "text": "<p>... oder möchten Sie ein neues Projekt umsetzen?</p>"
         },
         "id": "ab7ffd06-3b63-4676-bee8-720da56e3638",
         "isHidden": false,
@@ -41,17 +41,56 @@ Text:
         "id": "ed613a5c-e94e-4b7d-8328-23aa6f461a19",
         "isHidden": false,
         "type": "text"
+    }
+]
+
+----
+
+Text-right:
+
+[
+    {
+        "content": {
+            "level": "h3",
+            "text": "Sie benötigen strategische Beratung?"
+        },
+        "id": "3bfad829-e194-4369-82f9-0edb2e0d56b4",
+        "isHidden": false,
+        "type": "heading"
     },
     {
         "content": {
-            "level": "h2",
-            "text": "Wir geben Ihrer Botschaft ein Gesicht!"
+            "text": "<p>in folgenden Bereichen:</p>"
         },
-        "id": "4eb419ab-3cd0-4c0d-845c-d9f876f194ed",
+        "id": "35a5c0c0-d129-40ea-bcf4-f7a714bd646b",
         "isHidden": false,
-        "type": "heading"
+        "type": "text"
+    },
+    {
+        "content": {
+            "text": "<ul><li>Geschäftsentwicklung</li><li>Marketing</li><li>Vertrieb</li></ul>"
+        },
+        "id": "fa120ade-285c-48d3-a67f-56034c2fcceb",
+        "isHidden": false,
+        "type": "list"
+    },
+    {
+        "content": {
+            "text": "<p>für Rx- und OTC-Arzneimittel und Medizinprodukte?</p>"
+        },
+        "id": "14d817d0-7d60-457e-836d-26486b6032f0",
+        "isHidden": false,
+        "type": "text"
     }
 ]
+
+----
+
+Text-center: Wir unterstützen Sie dabei!
+
+----
+
+Schlagworte-header: Wir geben Ihrer Botschaft ein Gesicht!
 
 ----
 
@@ -80,9 +119,7 @@ Schlagworte:
 
 ----
 
-Schlagwort-image:
-
-- megaphone.jpg
+Schlagwort-image: - megaphone.jpg
 
 ----
 
@@ -90,9 +127,7 @@ Description: Wir haben die passenden Lösungen für Ihre Herausforderungen!
 
 ----
 
-Header-image:
-
-- bild6cut.jpg
+Header-image: - bild6cut.jpg
 
 ----
 
@@ -108,3 +143,7 @@ Other-offer-paths:
   path: projektablauf
 - 
   path: wofuer-wir-stehen
+
+----
+
+Uuid: o1YooXSzJzWcy1bk

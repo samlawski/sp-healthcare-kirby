@@ -63,10 +63,10 @@ return function($kirby, $pages, $page) {
       try {
         $kirby->email([
           'template' => 'email',
-          'from'     => 'webmaster@sp-healthcare.de',
+          'from'     => 'website@sp-healthcare.de',
           'replyTo'  => $data['email'],
           'to'       => $SECRET_RECIPIENT_EMAIL,
-          'subject'  => 'SP Webseite Kontaktformular: ' . esc($data['name']),
+          'subject'  => 'Webseite Kontaktformular: ' . esc($data['name']),
           'data'     => [
             'text'   => esc($data['text']),
             'sender' => esc($data['name']),

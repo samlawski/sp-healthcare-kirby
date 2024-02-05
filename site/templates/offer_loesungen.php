@@ -17,7 +17,23 @@
                 <div class="main-content">
                   <!-- CUSTOM OFFER START -->
                   
-                  <?= $page->text()->toBlocks() ?>
+                  
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <?= $page->text_left()->toBlocks() ?>
+                    </div>
+                    <div class="col-sm-6">
+                      <?= $page->text_right()->toBlocks() ?>
+                    </div>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <br><br>
+                      <p class="text-center lead"><?= $page->text_center() ?></p>
+                      <h2><?= $page->schlagworte_header() ?></h2>
+                    </div>
+                  </div>
 
                   <div class="row">
                     <div class="col-sm-7">

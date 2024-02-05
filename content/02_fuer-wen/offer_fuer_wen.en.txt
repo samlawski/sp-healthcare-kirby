@@ -6,17 +6,7 @@ Slug: who-its-for
 
 ----
 
-Description: Professional and personal support for pharmaceutical companies. We present your product to medical practices, clinics and pharmacies.
-
-----
-
-Header-image:
-
-- bild2.jpg
-
-----
-
-Back-link: Back to homepage
+Category1-name: Medical Practices
 
 ----
 
@@ -26,7 +16,7 @@ Category1-image:
 
 ----
 
-Category1-name: Medical Practices
+Category2-name: &nbsp;&nbsp; Clinics
 
 ----
 
@@ -36,17 +26,13 @@ Category2-image:
 
 ----
 
-Category2-name: &nbsp;&nbsp; Clinics
+Category3-name: &nbsp; Pharmacies
 
 ----
 
 Category3-image:
 
 - bild5.jpg
-
-----
-
-Category3-name: &nbsp; Pharmacies
 
 ----
 
@@ -61,8 +47,31 @@ Text:
         "id": "a62fac89-c03e-4ff8-ba72-c396ae0d3fec",
         "isHidden": false,
         "type": "heading"
+    },
+    {
+        "content": {
+            "level": "h4",
+            "text": "We offer strategic consulting for <br>small and medium-sized enterprises (SME) <br>in the fields of business development, <br>marketing and sales of the pharmaceutical industry."
+        },
+        "id": "9d0485c4-2965-427f-900c-9864760a92ca",
+        "isHidden": false,
+        "type": "heading"
     }
 ]
+
+----
+
+Description: Professional and personal support for pharmaceutical companies. We present your product to medical practices, clinics and pharmacies.
+
+----
+
+Header-image:
+
+- bild2.jpg
+
+----
+
+Back-link: Back to homepage
 
 ----
 

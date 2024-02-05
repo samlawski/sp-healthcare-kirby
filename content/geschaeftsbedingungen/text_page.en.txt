@@ -2,7 +2,7 @@ Title: Terms of Service
 
 ----
 
-slug: terms
+Slug: terms
 
 ----
 
@@ -12,7 +12,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "1. Scope of the provisions"
+            "text": "1. Scope of the Provisions"
         },
         "id": "5e11e7bc-b5f5-4185-bbd4-4333c02be748",
         "isHidden": false,
@@ -20,7 +20,7 @@ Body:
     },
     {
         "content": {
-            "text": "<p>1.1 These general terms and conditions cover the use of the services provided by S&amp;P HEALTHCARE SERVICES, Cornelia Toussaint, Dohnaer Straße 73, 01219 Dresden, (subsequently referred to as: “S&amp;P” or “contractor”). They govern the conclusion of a contract between the company, which makes use of the services offered (“client”) and S&amp;P and the execution of contracts agreed; they also inform both parties of their respective mutual rights and obligations under the contract.</p><p>1.2 The business relationship between S&amp;P and the client is regulated exclusively by these General terms and conditions together with the data privacy regulations and the terms agreed by S&amp;P and the client for each “individual order”. In cases of doubt, these individual terms have priority over the General terms and conditions. S&amp;P does not accept any deviating conditions imposed by the client, unless they have given their express (written) agreement to them.</p><p>1.3 S&amp;P can alter these General terms and conditions at any time with effect for the future. In such a case, S&amp;P will inform the client of the changed conditions and highlight the changes clearly. If the client is not in agreement with these changes, he can object to them within four weeks of receipt of the notification of change. Should the client not lodge any objection within this period, the client has accepted the changes. If the client should object to the changes, the contract will remain in force, but S&amp;P may make use of its ordinary right of termination. S&amp;P will inform the client of their right of objection, the meaning of the behaviour of the client and the resulting legal consequences separately in the communication.</p>"
+            "text": "<p>1.1. These general terms and conditions cover the use of the services provided by S&amp;P HEALTHCARE SERVICES, Cornelia Toussaint, Dohnaer Str. 73, 01219 Dresden, (subsequently referred to as: “S&amp;P” or “contractor”). They govern the conclusion of a contract between the company, which makes use of the services offered (“client”) and S&amp;P and the execution of contracts agreed; they also inform both parties of their respective mutual rights and obligations under the contract.</p><p>1.2.&nbsp;The business relationship between S&amp;P and the client is regulated exclusively by these General terms and conditions together with the data privacy regulations and the terms agreed by S&amp;P and the client for each “individual order” or “consultancy agreement”. In cases of doubt, these individual terms have priority over the General terms and conditions. S&amp;P does not accept any deviating conditions imposed by the client, unless they have given their express (written) agreement to them.</p><p>1.3. S&amp;P can alter these General terms and conditions at any time with effect for the future. In such a case, S&amp;P will inform the client of the changed conditions and highlight the changes clearly. If the client is not in agreement with these changes, he can object to them within four weeks of receipt of the notification of change. Should the client not lodge any objection within this period, the client has accepted the changes. If the client should object to the changes, the contract will remain in force, but S&amp;P may make use of its ordinary right of termination. S&amp;P will inform the client of their right of objection, the meaning of the behaviour of the client and the resulting legal consequences separately in the communication.</p>"
         },
         "id": "a3a8078e-7899-4d26-bf84-85d0c5b2e2a3",
         "isHidden": false,
@@ -29,7 +29,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "2. General specification of services"
+            "text": "2. General Specification of Services"
         },
         "id": "6c4c6590-0c51-4285-8b44-41be31eb760e",
         "isHidden": false,
@@ -37,7 +37,7 @@ Body:
     },
     {
         "content": {
-            "text": "<p>2.1. S&P provides clients in a range of sectors including the pharmaceutical sector with contact to doctors in practices and clinics (“doctors”) and/or pharmacists through Health Care Representatives (“HCR”). S&P organizes the visits from HCRs on the basis of the address information provided by the client and informs the client of the discussions held in the scope agreed with the client. The client will provide the specialist information material for the visits by the HCRs and any unsellable samples (“samples”) to be submitted to S&P free of charge.</p>\n\n<p>2.2. S&P may not perform the tasks with which they have been commissioned by the client without the permission of third parties. These third parties are not the HCRs. The client is aware and is in agreement to the fact that the HCRs are employed in a freelance capacity and not by S&P.</p>"
+            "text": "<p>2.1. S&amp;P provides clients in a range of sectors including the pharmaceutical sector with contact to doctors in practices and clinics (“doctors”) and/or pharmacists through Health Care Representatives (“HCRs”). S&amp;P organizes the visits from HCRs on the basis of the address information provided by the client and informs the client of the discussions held in the scope agreed with the client. The client will provide the specialist information material for the visits by the HCRs and any unsellable samples (“samples”) to be submitted to S&amp;P free of charge.</p><p>2.2. S&amp;P may not perform the tasks with which they have been commissioned by the client without the permission of third parties. These third parties are not the HCRs. The client is aware and is in agreement to the fact that the HCRs are employed in a freelance capacity and not by S&amp;P.</p><p>2.3.&nbsp;Depending on the assignment S&amp;P is taking over the training of product/s and/or pharmacovigilance.</p><p>2.4. Furthermore, S&amp;P provides strategic consultancy in the fields of business development, marketing and sales of drugs, cosmetics, medical devices and nutritional supplements.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
         },
         "id": "d210fccc-0bf8-4086-9836-a5123a4bbef9",
         "isHidden": false,
@@ -46,7 +46,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "3. Prices and payment"
+            "text": "3. Prices and Payment"
         },
         "id": "a5f09c65-2bd9-464a-82b6-964bd4dd6fa2",
         "isHidden": false,
@@ -54,7 +54,7 @@ Body:
     },
     {
         "content": {
-            "text": "<p>3.1. The prices charged by S&P for their services are calculated on the basis of the scope of the services required by the client. The services are arranged individually between the parties and recorded in a separate agreement (individual order, see point 4 for further information).</p>\n\n<p>3.2. The payments to be made for the services agreed are due after the issue of an invoice as follows: 1/3 before the start of the project – 1/3 after elapse of half of the project duration – 1/3 upon completion of the project. S&P will place invoices with sales tax added.</p>\n\n<p>3.3. Any costs incurred by the participation of the HCR in the information events (“Train the Trainer” or others) are to be borne by the client.</p>"
+            "text": "<p>3.1. The prices charged by S&amp;P for their services are calculated on the basis of the scope of the services required by the client. The services are arranged individually between the parties and recorded in a separate agreement (individual order or consultancy agreement, see &nbsp;article 4 for further information).</p><p>3.2. The payments to be made for the services agreed either with assignment individual or due after the issue of an invoice as follows are 1/3 before the start of the project – 1/3 after elapse of half of the project duration – 1/3 upon completion of the project. S&amp;P will place invoices with VAT applicable at that time.</p><p>3.3. Any costs incurred by the participation of the HCRs in&nbsp; training events are to be borne by the client.</p>"
         },
         "id": "eeee27d1-e107-48d3-8e81-81a356e576d0",
         "isHidden": false,
@@ -63,7 +63,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "4. Conclusion of the contract, individual orders, duration of the contract, termination"
+            "text": "4. Conclusion of the Contract, Individual Orders, Duration of the Contract, Termination"
         },
         "id": "3444fd4b-2bdf-4be1-b17a-423bf7beb782",
         "isHidden": false,
@@ -71,7 +71,7 @@ Body:
     },
     {
         "content": {
-            "text": "<p>4.1. S&P and the client will establish the exact scope of the desired service and their costs as well as the duration of the contract in an individual order. The respective contact partners of the client and S&P for pharmaceutical and technical matters are recorded in the individual order.</p>\n\n<p>4.2. The contractual relationship between S&P and the client begins once the individual order for which these General terms and conditions apply, has been signed.</p>\n\n<p>4.3. The start and duration of the commissioned performance is defined by the agreements concluded within the relevant individual order.</p>\n\n<p>4.4. The duration of the contract is defined by the term of the booked services selected by the client and recorded in the individual order, supplemented by any contractual obligations still to be performed by the parties to the agreement after the end of the duration of the agreement.</p>\n\n<p>4.5. The agreement will end with the successful communication of all information to the client or with the last payment to S&P, whichever of the two is the later event.</p>\n\n<p>4.6. S&P can take advantage of its ordinary right of termination with a deadline of 4 (four) weeks to the end of the month, in cases where a client has objected to the receipt of the notification of changes in accordance figure 1.3. Otherwise, the parties cannot make use of ordinary termination.</p>\n\n<p>4.7. The legal right to termination of this agreement on grounds of good cause with a shorter or even no deadline remains unaffected. Good cause includes for example:</p>\n\n<p>4.7.1. If the client is in arrears with the payment of due fees.</p>\n\n<p>4.7.2. If one or both of the parties infringes applicable law or these general terms and conditions, especially specifications pertaining to data protection and other expressly agreed obligations.</p>\n\n<p>4.8. The termination must be issued in writing (e-mail is sufficient).</p>\n\n<p>4.9. The consequences of the termination:</p>\n\n<p>4.9.1. Once the termination has taken force, both parties are no longer required to perform the contractual services, unless an express agreement to the contrary has been entered or this results from the nature of the service or agreement.</p>\n\n<p>4.9.2. The client is required to remunerate any services performed by S&P up to the point at which the termination takes effect and which have not yet been remunerated.</p>\n\n<p>4.9.3. S&P will submit all information collected up to the point of the termination and not yet made available to the client pertaining to visits to the doctors and pharmacies within 6 (six) weeks, together with the information documentation and samples in the possession of S&P. Figs. 6.6 and 6.9 apply accordingly.</p>\n\n<p>04:10. Both parties are aware of the possibility that the client can send and/or publish a “DHCP letter” during the duration of the contract in consultation with the federal supervisory authority (BfArM or Paul-Ehrlich-Institut) responsible for the respective pharmaceutical product and concerning one or more of the products involved in the individual order. The client is obliged to inform S&P about the “DHCP letter” immediately. If this involves notification of previously unknown and/or more serious side effects, S&P will cease the provision of services for the applicable product immediately after learning of these developments; if this agreement covers further products not affected by the DHCP letter, its provisions retain their validity. In such cases, S&P is entitled to complete payment for the whole service pertaining to the corresponding product(s) as foreseen in the individual order without the client acquiring the right to require S&P to perform the foreseen service.</p>"
+            "text": "<p>4.1. S&amp;P and the client will establish the exact scope of the desired service and their costs as well as the duration of the contract in an individual order or consultancy agreement. The respective contact partners of the client and S&amp;P for pharmaceutical and technical matters are recorded in the individual order or consultancy agreement.</p><p>4.2. The contractual relationship between S&amp;P and the client begins once the individual order or consultancy agreement for which these General terms and conditions apply, has been signed.</p><p>4.3. The start and duration of the commissioned performance is defined by the agreements concluded within the relevant individual order or consultancy agreement.</p><p>4.4. The duration of the contract is defined by the term of the booked services selected by the client and recorded in the individual order or consultancy agreement, supplemented by any contractual obligations still to be performed by the parties to the agreement after the end of the duration of the agreement.</p><p>4.5. The agreement will end with the successful communication of all information to the client or with the last payment to S&amp;P, depending on what the later event is.</p><p>4.6. S&amp;P can take advantage of its ordinary right of termination with a deadline of four weeks to the end of the month, in cases where a client has objected to the receipt of the notification of changes in accordance with article 1.3.</p><p>Otherwise and all other respects, the ordinary termination of the parties is hereby excluded.</p><p>4.7. The legal right to termination of this agreement on grounds of good cause with a shorter or even no deadline remains unaffected. Good cause includes for example:</p><p>4.7.1 &nbsp; If the client is in arrears with the payment of due invoices.</p><p>4.7.2 &nbsp; If one or both of the parties infringes applicable law or these general terms and conditions, especially specifications pertaining to data protection and other expressly agreed obligations.</p><p>4.8. The termination must be issued in writing (e-mail is sufficient).</p><p>4.9. The consequences of the termination:</p><p>4.9.1 &nbsp; Once the termination has taken force, both parties are no longer required to perform the contractual services, unless an express agreement to the contrary has been entered or this results from the nature of the service or agreement.</p><p>4.9.2 &nbsp; The client is required to remunerate any services performed by S&amp;P up to the point at which the termination takes effect and which have not yet been remunerated.</p><p>4.9.3 &nbsp; If the client prematurely terminates a project agreed in an individual order, the client must make the agreed payments in full for the visits that have been booked but not yet carried out. Variable costs such as mileage billing do not have to be paid in this case.</p><p>4.9.4 &nbsp; S&amp;P will submit all information collected up to the point of the termination and not yet made available to the client pertaining to visits to the doctors and pharmacies within six weeks, together with the information documentation and samples in the possession of S&amp;P. articles 6.6 and 6.9 apply accordingly.</p><p>4.10. Both parties are aware of the possibility that the client can send and/or publish a DHCP <em>(“Rote Hand”)</em> letter during the duration of the contract in consultation with the federal supervisory authority <em>(“BfArM or Paul-Ehrlich-Institut”)</em> responsible for the respective pharmaceutical product and concerning one or more of the products involved in the individual order. The client is obliged to inform S&amp;P about the “red hand” letter immediately. If this involves notification of previously unknown and/or more serious side effects, S&amp;P will cease the provision of services for the applicable product immediately after learning of these developments; if this agreement covers further products not affected by the DHCP <em>(“Rote Hand</em>”) &nbsp;letter, its provisions retain their validity. In such cases, S&amp;P is entitled to complete payment for the whole service pertaining to the corresponding product(s) as foreseen in the individual order without the client acquiring the right to require S&amp;P to perform the foreseen service.</p>"
         },
         "id": "ae38dc9b-8ba8-4676-8b5a-6519b7bdea1b",
         "isHidden": false,
@@ -80,7 +80,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "5. Grant of rights"
+            "text": "5. Grant of Rights"
         },
         "id": "aa84e23e-262a-4334-94ed-aed16e115e00",
         "isHidden": false,
@@ -88,7 +88,7 @@ Body:
     },
     {
         "content": {
-            "text": "<p>S&P grants the client the right to the simple, transferable, time-restricted and spatially unrestricted usage rights of the results of its activities within the scope of this agreement. The concession is covered by the remuneration agreed; S&P does not have separate claim for remuneration.</p>"
+            "text": "<p>S&amp;P grants the client the right to the simple, transferable, time-restricted and spatially unrestricted usage rights of the results of its activities within the scope of this agreement. The concession is covered by the remuneration agreed; S&amp;P does not have separate claim for remuneration.</p>"
         },
         "id": "426d818b-3316-453d-8457-62610d17a12a",
         "isHidden": false,
@@ -97,7 +97,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "6. The obligations of S&P"
+            "text": "6. The Obligations of S&amp;P"
         },
         "id": "850a0672-0a05-4962-84ff-57976892e5ac",
         "isHidden": false,
@@ -105,7 +105,7 @@ Body:
     },
     {
         "content": {
-            "text": "<p>6.1. S&P will only commission an HCR with the requisite specialist knowledge to perform the service, in accordance with § 75 section 2 AMG.</p>\n\n<p>6.2. S&P will require HCRs, to comply with the specifications of § 76 AMG and especially the specifications of § 47 section 3, section 4 AMG.</p>\n\n<p>6.3. S&P will ensure that the regulations agreed between S&P and the client in the contract also apply to the relationship between S&P and the HCR, as far as they are applicable. S&P is aware that the service offered, including the contractual agreement about it, is subject to control by the supervisory authority responsible for the client.</p>\n\n<p>6.4. S&P obliges the HCR to store the samples provided by the client in cool, dry and hygienic conditions, protected from access by third parties in lockable rooms. The temperature of the storage room must lie between 15° - 25° Celsius; transgressions of this specification to 8° and 27° are acceptable.</p>\n\n<p>6.5. S&P obliges the HCR only to take a maximum daily requirement of samples in their car. These samples are to be stored in a suitable cool box and the HCR is to ensure that any remaining samples are to be returned to the rooms intended for storage.</p>\n\n<p>6.6. S&P will document any samples which have not been used by the end of the duration of the contract and any samples which could not be used (e.g. due to damage) and will return them to the client.</p>\n\n<p>6.7. S&P will conclude a contract with the HCRs which oblige them not to take any medicines for their own consumption or to pass medicines on to third parties apart from the doctors / pharmacists which they visit.</p>\n\n<p>6.8. S&P will transmit information pertaining to the doctors / pharmacists visited by the HCRs to an e-mail address stipulated by the client at the interval and in the scope specified by the client in their individual order.</p>\n\n<p>6.9. S&P will send an overview of all the results to the client by e-mail or on a USB flash drive. This will be sent 4 (four) weeks after the end of the duration of the contract specified in the individual order.</p>\n\n<p>06:10. S&P also provides the following undertakings to the client:</p>\n\n<p>A) We will gather, process and use the data communicated to us exclusively for the performance of the contractual services.</p>\n\n<p>b) The processes employed by S&P to perform the service will be subject to regular controls.</p>"
+            "text": "<p>6.1. S&amp;P will only commission an HCRs with the required specialist knowledge to perform the service, in accordance with § 75 section 2 AMG (German Drug Law).</p><p>6.2. S&amp;P will require HCRs, to comply with the specifications of § 76 AMG and especially the specifications of § 47 section 3, section 4 AMG.</p><p>6.3.&nbsp;S&amp;P will ensure that the regulations agreed between S&amp;P and the client in the contract also apply to the relationship between S&amp;P and the HCRs, as far as they are applicable. S&amp;P is aware that the service offered, including the contractual agreement about it, is subject to control by the supervisory authority responsible for the client.</p><p>6.4. S&amp;P obliges the HCRs to store the samples provided by the client in cool, dry and hygienic conditions, protected from access by third parties in lockable rooms. The temperature of the storage room must lie between 15° - 25° Celsius; transgressions of this specification to 8° Celsius and 27° Celsius are acceptable.</p><p>6.5. S&amp;P obliges the HCRs only to take a maximum daily requirement of samples in their car. These samples are to be stored in a suitable cool box and the HCRs is to ensure that any remaining samples are to be returned to the rooms intended for storage.</p><p>6.6. S&amp;P will document any samples which have not been used by the end of the duration of the contract and any samples which could not be used (e.g. due to damage) and will return them to the client.</p><p>6.7. S&amp;P will conclude a contract with the HCRs which oblige them not to take any medicines for their own consumption or to pass medicines on to third parties apart from the doctors/pharmacists which they visit.</p><p>6.8. S&amp;P will transmit information pertaining to the doctors/pharmacists visited by the HCRs to an e-mail address stipulated by the client at the interval and in the scope specified by the client in their individual order.</p><p>6.9. S&amp;P will send an overview of all the results to the client via email. This will be sent four weeks after the end of the duration of the contract specified in the individual order.</p><p>06.10. S&amp;P also provides the following undertakings to the client:</p><p>a) We will gather, process and use the data communicated to us exclusively for the performance of the contractual services.</p><p>b) The processes employed by S&amp;P to perform the service will be subject to regular controls.</p>"
         },
         "id": "da14863e-d06b-4dc6-bd90-e25b613afbd8",
         "isHidden": false,
@@ -114,7 +114,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "7. The obligations of the client"
+            "text": "7. The Obligations of the Client"
         },
         "id": "5a788343-6b4d-4e02-ab6a-d8f4ad4a78a2",
         "isHidden": false,
@@ -122,7 +122,7 @@ Body:
     },
     {
         "content": {
-            "text": "<p>7.1. The client provides assurances that it is the marketing authorization holder of the products to be presented by S&amp;P in accordance with the individual order.</p><p>7.2. The client will provide S&amp;P or (following an agreement with S&amp;P to this end) the HCR with the agreed quantity of specialist information material and samples, together with a corresponding delivery slip.</p><p>7.3. The client will provide template forms for the documentation of the handover.</p><p>7.4. The client undertakes that the information and materials communicated to S&amp;P are up-to-date and provides their assurance that the samples have a remaining life which matches that of the duration of the contract. If the client learns of information during the duration of the contract that would have an influence on the information provided by S&amp;P to the doctor / pharmacist, he is responsible for communicating this to S&amp;P immediately. If necessary, he is to provide S&amp;P with the altered information material; any costs incurred will be borne by the client. The same applies to the samples. Should this necessitate further visits to doctors / pharmacists who have already been visited, the client is to remunerate these visits separately. The details will be determined in a separate written agreement between S&amp;P and the client.</p><p>7.5. The client is obliged to inform S&amp;P in writing immediately (e-mail or fax is sufficient) as soon as he has been informed by the higher federal authority (<em>Bundesoberbehörde</em>) responsible for the drug (BfArM or Paul-Ehrlich Institut) if a DHCP letter is to be sent due to previously unknown and/or serious side effects from a product supervised by S&amp;P within the scope of this agreement (see fig. 4.10.).</p><p>7.6. The data communicated from the client to S&amp;P, in particular the contact data of the doctor / pharmacist, will be adequately secured.</p><p>7.7. The client is conversant with the requirements of the General Data Protection Regulation (GDPR) and the German <em>Bundesdatenschutzgesetz</em> (BDSG) and will work to ensure that all data communicated to them by S&amp;P is processed in a manner which conforms with the relevant data protection legislation. They undertake to design their internal processes and organization in such a way that complies with all data protection regulations. In particular, they undertake to ensure that all the measures stipulated in article 32 EU GDPR are implemented.</p><p>7.8. The client will inform S&amp;P immediately and in writing of any alterations to the contact partner for pharmaceutical questions (an e-mail is sufficient).</p>"
+            "text": "<p>7.1. The client provides assurances that it is the marketing authorization holder of the products to be presented by S&amp;P in accordance with the individual order.</p><p>7.2. The client will provide the agreed quantity of specialist information material and samples, together with a corresponding delivery slip for S&amp;P or (after an agreement with S&amp;P) for the HCR.</p><p>7.3. The client will provide template forms for the documentation of the handover.</p><p>7.4. The client undertakes that the information and materials communicated to S&amp;P are up-to-date and provides their assurance that the samples have a remaining life which matches that of the duration of the contract. If the client learns of information during the duration of the contract that would have an influence on the information provided by S&amp;P to the doctor/pharmacist, he is responsible for communicating this to S&amp;P immediately. If necessary, he is to provide S&amp;P with the altered information material; any costs incurred will be borne by the client. The same applies to the samples. Should this necessitate further visits to doctors/pharmacists who have already been visited, the client is to remunerate these visits separately. The details will be determined in a separate written agreement between S&amp;P and the client.</p><p>7.5. The client is obliged to inform S&amp;P in writing immediately (e-mail or fax is sufficient) as soon as he has been informed by the higher federal authority (“<em>Bundesoberbehörde”</em>) responsible for the drug <em>(“BfArM or Paul-Ehrlich-Institut”</em>) if a DHCP <em>(“Rote Hand”)</em> letter is to be sent due to previously unknown and/or serious side effects from a product supervised by S&amp;P within the scope of this agreement (see article 4.10.).</p><p>7.6. The data communicated from the client to S&amp;P, in particular the contact data of the doctor/pharmacist, will be adequately secured.</p><p>7.7. The client is conversant with the requirements of the General Data Protection Regulation (GDPR) and the German “<em>Bundesdatenschutzgesetz”</em> (BDSG) and will work to ensure that all data communicated to them by S&amp;P is processed in a manner which conforms with the relevant data protection legislation. They undertake to design their internal processes and organization in such a way that complies with all data protection regulations. In particular, they undertake to ensure that all the measures stipulated in article 32 EU GDPR are implemented.</p><p>7.8. The client will inform S&amp;P immediately and in writing of any alterations to the contact partner for pharmaceutical-technical questions (an e-mail is sufficient).</p>"
         },
         "id": "71ab943b-2fbf-48e4-9be1-c72baaa971b2",
         "isHidden": false,
@@ -131,7 +131,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "8. Liability and indemnity"
+            "text": "8. Liability and Indemnity"
         },
         "id": "787683b9-9298-46b1-8ddc-271c1d739768",
         "isHidden": false,
@@ -139,7 +139,7 @@ Body:
     },
     {
         "content": {
-            "text": "<p>8.1. Working on behalf of the client, S&P organizes the visits of HCRs to doctors / pharmacists in the scope desired by the client. They will make a report of the results as commissioned in the individual order. S&P is not involved in any agreements or contracts made between the client and doctors / pharmacists and is not liable for their formation or contents.</p>\n\n<p>8.2. The client alone bears responsibility for ensuring that the information provided to S&P to be used during the visits of the HCR(s) to doctors / pharmacists is correct and complete and that the samples have a remaining life sufficient for the duration of the agreement.</p>\n\n<p>8.3. The client discharges S&P from all claims made by doctors / pharmacists or third parties, which they place against S&P or the HCRs on the basis of information which S&P or the HCRs have received directly from the client within the scope of the commissioning (this includes samples, product information and the address data of the doctors / pharmacists). This includes discharge from all legal or court costs incurred by S&P in conjunction with a defence against such claims. This discharge also applies to claims from third parties against S&P or the HCRs due to culpable infringement of legal specifications which result from the use of information and / or samples provided by the client. All further rights and claims for damage on the part of the client remain unaffected.</p>"
+            "text": "<p>8.1 Working on behalf of the client, S&amp;P organizes the visits of HCRs to doctors/pharmacists in the scope desired by the client. They will make a report of the results as commissioned in the individual order. S&amp;P is not involved in any agreements or contracts made between the client and doctors/pharmacists and is not liable for their formation or contents.</p><p>8.2. The client alone bears responsibility for ensuring that the information provided to S&amp;P to be used during the visits of the HCRs to doctors/pharmacists is correct and complete and that the samples have a remaining life sufficient for the duration of the agreement.</p><p>8.3. The client discharges S&amp;P from all claims made by doctors/pharmacists or third parties, which they place against S&amp;P or the HCRs on the basis of information which S&amp;P or the HCRs have received directly from the client within the scope of the commissioning (this includes samples, product information and the address data of the doctors/pharmacists). This includes discharge from all legal or court costs incurred by S&amp;P in conjunction with a defence against such claims. This discharge also applies to claims from third parties against S&amp;P or the HCRs due to culpable infringement of legal specifications which result from marketing for and sales of drugs, cosmetics, medical products and nutritional supplements by using of information and/or samples provided by the client.</p><p>8.4. Claims of damages of the client against S&amp;P, resulting out of consulting by S&amp;P in the fields of business development, marketing and sales of drugs, cosmetics, medical devices and nutritional supplements and all services of S&amp;P in connection with training, are excluded. Excluded are customer claims from the injury to life, body or health or from violations of essential contractual obligations (cardinal obligations) as well as the liability for other damages caused by an intentional or grossly negligent breach of duty by S&amp;P, its legal representatives or vicarious agents. Essential contractual obligations are such whose fulfilment is necessary to attain the purpose of the contract. All further rights and claims for damage of the client remain unaffected.</p>"
         },
         "id": "6d7c2cfc-838d-4221-b4b6-863a7ae4b50a",
         "isHidden": false,
@@ -148,7 +148,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "9. Non-disclosure"
+            "text": "9. Non-Disclosure"
         },
         "id": "3e3ec06e-6e29-4778-995a-dc4a07694da3",
         "isHidden": false,
@@ -165,7 +165,7 @@ Body:
     {
         "content": {
             "level": "h2",
-            "text": "10. Final provisions"
+            "text": "10. Final Provisions"
         },
         "id": "9ecf63c7-ea98-42ca-b43a-2f770698b7d0",
         "isHidden": false,
@@ -173,7 +173,7 @@ Body:
     },
     {
         "content": {
-            "text": "<p>10.1. Subsequent alterations of and additions to individual orders require mutual consent and require the written form.</p>\n\n<p>10.2. In all business dealings with businessmen, a corporate body under public law or special funds under public law, the place of delivery and place of jurisdiction is Berlin, unless otherwise agreed.</p>\n\n<p>10.3. The law of the Federal Republic of Germany applies.</p>\n\n<p><em>Last update: Juli 2022</em></p>\n\n<p> </p>\n\n<p> </p>"
+            "text": "<p>10.1. Subsequent alterations of and additions to individual orders require mutual consent and require the written form.</p><p>10.2. In all business dealings with businessmen, a corporate body under public law or special funds under public law, the place of delivery and place of jurisdiction is Dresden, unless otherwise agreed.</p><p>10.3. It applies the law of the Federal Republic of Germany.</p><p></p><p><em>Last update: December 2023</em></p><p></p><p></p>"
         },
         "id": "3e17a638-1440-4808-a488-6e71fadc3a51",
         "isHidden": false,
